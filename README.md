@@ -1,6 +1,25 @@
-# 💫 About Me:
-# 🌟 Welcome to my Profile! 🌟<br><br>- 👨‍💻 Junior .NET Software Developer | Coding Enthusiast 🚀<br>- 🔥 Passionate about Technology, Creating Innovative Solutions, and Making an Impact! 💡<br>- 🎂 Age: 23<br><br># 🌐 Expertise:<br>- ✅ Proficient in .NET Framework and C# programming language<br>- ✅ Skilled in C++ programming language<br>- ✅ Skilled in developing robust and scalable applications<br>- ✅ Knowledgeable in database management and SQL<br>- ✅ Familiar with front-end development using HTML, CSS, and JavaScript<br>- ✅ Proficient in Linux, Kali Linux, and Cybersecurity<br>- ✅ Experienced in SQL, Oracle, and Microsoft SQL Server<br>- ✅ Skilled in C# and ASP.NET Core for web application development<br>- ✅ Knowledgeable in .NET MAUI for app development and WPF<br>- ✅ Familiar with logic-based creativity in programming<br>- ✅ Familiar with front-end development using HTML, CSS, JavaScript, and Vue.js<br><br># 💡 Personal Note:<br>You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. When I'm not immersed in coding challenges or building software solutions, I enjoy exploring new cultures and traveling. Traveling fuels my creativity and broadens my perspective, allowing me to approach programming challenges with a fresh mindset. ✈️🌍
+# 💫 Profile Overview:
+## 🌟 Welcome to my Profile! 🌟
 
+- <h2>👨‍💻 Junior .NET Software Developer | Coding Enthusiast 🚀</h2>
+- <h3>🔥 Passionate about Technology, Creating Innovative Solutions, and Making an Impact! 💡</h3>
+- <h3>🎂 Age: 23</h3>
+
+# 🌐 Expertise:
+- <h3>✅ Proficient in .NET Framework and C# programming language</h3>
+- <h3>✅ Skilled in C++ programming language</h3>
+- <h3>✅ Skilled in developing robust and scalable applications</h3>
+- <h3>✅ Knowledgeable in database management and SQL</h3>
+- <h3>✅ Familiar with front-end development using HTML, CSS, and JavaScript</h3>
+- <h3>✅ Proficient in Linux, Kali Linux, and Cybersecurity</h3>
+- <h3>✅ Experienced in SQL, Oracle, and Microsoft SQL Server</h3>
+- <h3>✅ Skilled in C# and ASP.NET Core for web application development</h3>
+- <h3>✅ Knowledgeable in .NET MAUI for app development and WPF</h3>
+- <h3>✅ Familiar with logic-based creativity in programming</h3>
+- <h3>✅ Familiar with front-end development using HTML, CSS, JavaScript, and Vue.js</h3>
+
+# 💡 Personal Note:
+You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. When I'm not immersed in coding challenges or building software solutions, I enjoy exploring new cultures and traveling. Traveling fuels my creativity and broadens my perspective, allowing me to approach programming challenges with a fresh mindset. ✈️🌍
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yassine-amzil-914562222/) 
