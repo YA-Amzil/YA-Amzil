@@ -6,7 +6,6 @@
 
 # 🌐 Expertise:
 - ✅ Proficient in .NET Framework and C# programming language
-- ✅ Skilled in C++ programming language
 - ✅ Skilled in developing robust and scalable applications
 - ✅ Knowledgeable in database management and SQL
 - ✅ Familiar with front-end development using HTML, CSS, and JavaScript
