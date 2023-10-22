@@ -31,3 +31,7 @@ You might not think that programmers are artists, but programming is an extremel
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=YA-Amzil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+# 👁️ Views
+[![](https://visitcount.itsvg.in/api?id=YA-Amzil&label=Total%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=YA-Amzil&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
