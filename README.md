@@ -1,41 +1,68 @@
 # 🌟 Welcome to my Profile! 🌟
 
-- 👨‍💻 Junior .NET Software Developer | Coding Enthusiast 🚀
-- 🔥 Passionate about Technology, Creating Innovative Solutions, and Making an Impact! 💡
-- Age: 23
+👨‍💻 Software Developer | Tech Enthusiast 🚀  
+💡 Passionate about building innovative solutions and solving complex problems!  
 
-# 🌐 Expertise:
-- ✅ Proficient in .NET Framework and C# programming language
-- ✅ Skilled in developing robust and scalable applications
-- ✅ Knowledgeable in database management and SQL
-- ✅ Familiar with front-end development using HTML, CSS, and JavaScript
-- ✅ Proficient in Linux, Kali Linux, and Cybersecurity
-- ✅ Experienced in SQL, Oracle, and Microsoft SQL Server
-- ✅ Skilled in C# and ASP.NET Core for web application development
-- ✅ Knowledgeable in .NET MAUI for app development and WPF
-- ✅ Familiar with logic-based creativity in programming
-- ✅ Familiar with front-end development using HTML, CSS, JavaScript, and Vue.js
+## 🌐 Expertise:
+- ✅ **Full Stack Development**: Designing and developing scalable, high-performance applications  
+- ✅ **Mobile App Development**: Building cross-platform mobile applications with modern frameworks like **.NET MAUI**, **React Native**
+- ✅ **Frontend Development**: Expertise in **Vue.js**, **React**, and modern UI/UX principles  
+- ✅ **Backend Development**: Proficient in **.NET (C#)**, **Java** and **Go** with strong database management skills (**SQL Server**, **PostgreSQL**, **MongoDB**)  
+- ✅ **Architecture Solutions**: Applying **design patterns**, **SOLID principles**, and **microservices architecture** for maintainable and scalable code  
+- ✅ **DevOps & Cloud**: Experience with **Docker**, **CI/CD pipelines** (GitHub Actions, Azure DevOps), and cloud platforms like **AWS**, **Azure** 
+- ✅ **Cybersecurity Awareness**: Implementing best practices for **secure coding**, **OWASP Top 10**, and **identity & access management** (OAuth, JWT)  
+
 
 # 💡 Personal Note:
 You might not think that programmers are artists, but programming is an extremely creative profession. It's logic-based creativity. When I'm not immersed in coding challenges or building software solutions, I enjoy exploring new cultures and traveling. Traveling fuels my creativity and broadens my perspective, allowing me to approach programming challenges with a fresh mindset. ✈️🌍
 
-# 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-amzil-914562222/) 
+
+## 📬 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yassine-amzil-914562222/)
+
 
 # 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat&logo=swagger&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white)
+
+## 🖥️ Backend Development  
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
+
+## 🎨 Frontend Development  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)  
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+
+## 📱 Mobile Development  
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
+
+## ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)  
+![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)  
+
+## 🗄️ Database Management  
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)  
+
+## 🎨 Design & Prototyping  
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
+
 
 # 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YA-Amzil&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api?username=YA-Amzil&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
 
-# 🌟 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YA-Amzil&theme=radical&hide_border=false)
 
 # 🚀 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YA-Amzil&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YA-Amzil&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YA-Amzil&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-# 👁️ Views
-[![](https://visitcount.itsvg.in/api?id=YA-Amzil&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
